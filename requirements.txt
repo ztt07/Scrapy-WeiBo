@@ -1,0 +1,4 @@
+Scrapy==1.5.1
+selenium==3.14.1
+bleach==2.0.0
+redis==2.10.6
